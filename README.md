@@ -142,20 +142,6 @@ The map will display attacker IPs with geographic context using the enriched dat
 
 
 
-✅ Summary
-By the end of this lab, you will have:
-Deployed a honeypot VM in Azure
 
-
-Captured and analyzed failed login attempts
-
-
-Forwarded logs to Microsoft Sentinel
-
-
-Enriched logs with GeoIP data
-
-
-Visualized attack origins using a custom map
 
 
